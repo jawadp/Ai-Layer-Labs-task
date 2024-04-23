@@ -89,10 +89,9 @@ Run `npm start``` to start the front end of the project
 
 ## 👤 Author<a name="authors"></a>
 
-🧔 **Ghayoor Baqir**
+🧔 **Jawad Parvez**
 
-- GitHub: [github](https://github.com/Xghayor)
-- LinkedIn: [linkedin](https://www.linkedin.com/in/ghayoorulbaqir/)
+- GitHub: [github](https://github.com/jawadp)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
