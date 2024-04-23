@@ -77,7 +77,7 @@ Install Ruby, Ruby on Rails and Node on your local machine
 ### Install
 
 Install this project with:
-```git clone https://github.com/Xghayor/Fernweh-blog-api.git``` <br />
+```git clone https://github.com/jawadp/Ai-Layer-Labs-task.git``` <br />
 Install all project dependencies with:
 ```npm install```
 
